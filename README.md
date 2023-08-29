@@ -17,23 +17,13 @@ I'm a passionate web developer and lifelong learner. I love diving into new tech
 ### Tech Stack:
 HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Git | VS Code 
 
-🚀 Let's Connect:
-Feel free to connect with me on LinkedIn [![LinkedIn](linkedin-logo.png)].
 
-[![HTML](html-logo.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](css-logo.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](javascript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](react-logo.png)](https://reactjs.org/)
-[![Node.js](nodejs-logo.png)](https://nodejs.org/)
-[![Express](express-logo.png)](https://expressjs.com/)
-[![MongoDB](mongodb-logo.png)](https://www.mongodb.com/)
-[![Git](git-logo.png)](https://git-scm.com/)
-[![VS Code](vscode-logo.png)](https://code.visualstudio.com/)
-[![Command Line](command-line-logo.png)](https://en.wikipedia.org/wiki/Command-line_interface)
+
+🚀 Let's Connect:
+Feel free to connect with me on LinkedIn.
+
 
 Let's code the future together! 🖥️🌟
-
-Feel free to connect with me on Linkedin, Let's share ideas, collaborate on projects, and make the coding community even better together!
 
 <!---
 Itz-Manu/Itz-Manu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
