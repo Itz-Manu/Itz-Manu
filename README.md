@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Itz-Manu
+### 👋 Hi, I’m Manu
 I'm a passionate web developer and lifelong learner. I love diving into new technologies and frameworks to stay up-to-date with the ever-evolving tech landscape.
 
 - 🌱 I'm currently learning [Javascript, React, TailWind]
