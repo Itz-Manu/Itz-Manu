@@ -9,11 +9,14 @@
   📫 How to reach me: <a href="mailto:manuvma03@gmail.com">manendrav29@gmail.com</a>
 </p>
 
+
+
 <h1 align="center"> Tech Stack </h1>
 <p align="center"> HTML | CSS | JavaScript | React | TailWind | Git | VS Code </p>
-
+<br>
 
 <h3 align="center">I work with these Languages and Tools</h3>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -35,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img width="15" />
 </div>
-<br>
 <br>
 
 <h3 align="center">Let's Connect:
