@@ -40,13 +40,10 @@
 </div>
 <br>
 
-<h3 align="center">Let's Connect:
-Feel free to connect with me on LinkedIn.
+<p align="center">Let's Connect: Feel free to connect with me on LinkedIn.</p>
 
 
-Let's code the future together! 🖥️
-
-</h3>
+<h3 align="center">Let's code the future together! 🖥️</h3>
 
 
 <!---
